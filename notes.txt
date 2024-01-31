@@ -1,0 +1,4 @@
+# https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/19.15.3?utm_content=documentLink&utm_medium=Visual+Studio+Code&utm_source=terraform-ls
+# https://github.com/terraform-aws-modules/terraform-aws-eks/blob/master/examples/complete/main.tf
+
+# terraform import aws_eks_cluster.education-eks-GJDSweYr education-eks-GJDSweYr
